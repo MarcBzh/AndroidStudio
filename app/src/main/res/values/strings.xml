@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="base_url">https://suoqix3gpa.execute-api.eu-west-3.amazonaws.com/dev</string>
+</resources>
